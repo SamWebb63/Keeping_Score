@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="saved_times_pressed_default_key">0</integer>
+    <integer name="saved_high_score_default_key">0</integer>
+    <integer name="reset_score">0</integer>
+    <integer name="big_high_score_dash">0</integer>
+    <integer name="round_num_dash">0</integer>
+</resources>
